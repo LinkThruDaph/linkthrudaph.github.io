@@ -270,7 +270,11 @@
   }
 
   .u-section-2 .u-layout-cell-2 {
-    min-height: 799px;
+    min-height: 967px;
+  }
+
+  .u-section-2 .u-table-1 {
+    margin-top: 339px;
   }
 }
 
@@ -293,11 +297,14 @@
   }
 
   .u-section-2 .u-layout-cell-2 {
-    min-height: 100px;
+    min-height: 728px;
   }
 
   .u-section-2 .u-table-1 {
     width: 300px;
+    margin-top: 3px;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
@@ -308,6 +315,10 @@
 
   .u-section-2 .u-layout-cell-1 {
     min-height: 585px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 100px;
   }
 
   .u-section-2 .u-container-layout-2 {
@@ -503,13 +514,21 @@
     min-height: 1027px;
   }
 
+  .u-section-3 .u-group-1 {
+    min-height: 720px;
+    margin-top: 83px;
+    margin-bottom: 60px;
+  }
+
   .u-section-3 .u-text-1 {
+    width: auto;
+    margin-top: 0;
     margin-left: 0;
   }
 
   .u-section-3 .u-text-2 {
-    margin-right: 0;
     margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-3 .u-text-3 {
@@ -519,6 +538,9 @@
 
   .u-section-3 .u-list-1 {
     width: 940px;
+    margin-top: 164px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-3 .u-repeater-1 {
@@ -547,18 +569,28 @@
     min-height: 1358px;
   }
 
+  .u-section-3 .u-group-1 {
+    min-height: 1070px;
+  }
+
   .u-section-3 .u-text-1 {
     font-size: 3rem;
   }
 
   .u-section-3 .u-list-1 {
     width: 540px;
+    margin-top: 72px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 1496px;
+    min-height: 1812px;
+  }
+
+  .u-section-3 .u-group-1 {
+    min-height: 1607px;
+    margin-top: 20px;
   }
 
   .u-section-3 .u-text-1 {
@@ -567,6 +599,7 @@
 
   .u-section-3 .u-list-1 {
     width: 340px;
+    margin-top: 13px;
   }
 
   .u-section-3 .u-repeater-1 {
@@ -574,16 +607,32 @@
     min-height: 739px;
   }
 
+  .u-section-3 .u-text-4 {
+    width: 100px;
+  }
+
   .u-section-3 .u-text-5 {
     font-size: 3.75rem;
+  }
+
+  .u-section-3 .u-text-6 {
+    width: 100px;
   }
 
   .u-section-3 .u-text-7 {
     font-size: 3.75rem;
   }
 
+  .u-section-3 .u-text-8 {
+    width: 100px;
+  }
+
   .u-section-3 .u-text-9 {
     font-size: 3.75rem;
+  }
+
+  .u-section-3 .u-text-10 {
+    width: 100px;
   }
 
   .u-section-3 .u-text-11 {
