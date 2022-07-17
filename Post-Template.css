@@ -94,4 +94,9 @@
     margin-top: 0;
     margin-left: initial;
   }
+}@font-face {
+  font-family: 'Breathing';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Breathing.ttf);
 }
