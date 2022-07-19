@@ -38431,11 +38431,12 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
-    min-height: 151px;
+    min-height: 111px;
   }
 
   .u-footer .u-layout-wrap-1 {
-    margin-top: 22px;
+    margin-top: -1px;
+    margin-bottom: -17px;
   }
 
   .u-footer .u-position-1 {
